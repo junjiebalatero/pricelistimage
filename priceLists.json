@@ -1,38 +1,35 @@
-﻿[
-	{
-		"item":"Candle",
-		"description":"Star Mineral Wax Candle - #6 10 pcs",
-		"retail_price":"5.00",
-		"wholesale_price":"45.00",
-		"available":"out of stock",
-		"remarks":"none",
-		"image":"images/junjielogo.jpg"
-	},
-	{
-		"item":"Milo",
-		"description":"sachet",
-		"retail_price":"5.00",
-		"wholesale_price":"45.00",
-		"available":"5 left",
-		"remarks":"ok",
-		"image":"images/junjie.jpg"
-	},
-	{
-		"item": "Oil",
-		"description": "cokking",
-		"retail_price": "50.00",
-		"wholesale_price": "40.00",
-		"available": "available",
-		"remarks": "per pocket size",
-		"image": "images/oil.jpg"
-	},
-	{
-		"item": "Match",
+[
+    {
+        "_id": "6280a293db878900046f02ef",
+        "item": "Oil",
+        "description": "cokking",
+        "retail_price": "50.00",
+        "wholesale_price": "40.00",
+        "available": "available",
+        "remarks": "per pocket size",
+        "image": "images/oil.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "6280a6bbdb878900046f0308",
+        "item": "Match",
         "description": "Rizal",
         "retail_price": "5.00",
         "wholesale_price": "10.00",
         "available": "available",
         "remarks": "each",
-        "image": "images/match.jpg"
-	}
+        "image": "images/match.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62a317393da0010004774bc4",
+        "item": "Blade",
+        "description": "Rubie",
+        "retail_price": "6.00",
+        "wholesale_price": "40.00",
+        "available": "available",
+        "remarks": "per pocket size",
+        "image": "images/junjie.jpg",
+        "__v": 0
+    }
 ]
